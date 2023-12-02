@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Function to log your details in the terminal
 function logDetails() {
-    const message = "Hey there! I'm Haimantika, a developer advocate at Appwrite!";
+    const message = "Hey there! I'm Debangshu, A developer, musician, writer, artist and much more.";
     const twitterLink = "https://twitter.com/deejay_cyph3r";
     const linkedinLink = "https://www.linkedin.com/in/debangshu-roy-859ab927a/";
   
@@ -17,4 +17,4 @@ function logDetails() {
     console.log(colorfulBox);
   }
   // Call the function to log your details
-  logDetails();
+logDetails();
